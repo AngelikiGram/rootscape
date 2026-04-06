@@ -1,0 +1,1 @@
+{"error": "503 Server Error: Service Temporarily Unavailable for url: https://rest.isric.org/soilgrids/v2.0/properties/query?lon=16.3695&lat=48.1995&property=clay&property=sand&property=silt&property=phh2o&property=soc&property=bdod&depth=0-5cm&depth=5-15cm&depth=15-30cm&depth=30-60cm&value=mean"}
